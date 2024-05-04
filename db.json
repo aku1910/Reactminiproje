@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Vüsal Əliyev",
+            "image": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+            "info": "TikTok-da oyun yayınları açarağ tanınan biri.",
+            "supporter": "119 Dəstəkçi"
+        },
+        {
+            "id": "2",
+            "name": "Toğrul Ələkbər",
+            "image": "https://kofe.al/storage/images/users/65d7377a20176.JPG",
+            "info": "İnsan inkişafçısı",
+            "supporter": "58 Dəstəkçi"
+        },
+        {
+            "id": "3",
+            "name": "gagaonline",
+            "image": "https://kofe.al/storage/images/users/65ccf94fe2693.jpg",
+            "info": "Yayımcı",
+            "supporter": "20 Dəstəkçi"
+        },
+        {
+            "id": "4",
+            "name": "Rehim Alxazov",
+            "image": "https://kofe.al/storage/images/users/65e4604aed94f.jpeg",
+            "info": "TikTokda yayimcilig edib Pubg Mobile Oynuyuram",
+            "supporter": "8 Dəstəkçi"
+        },
+        {
+            "id": "5",
+            "name": "Chene Podcast",
+            "image": "https://kofe.al/storage/images/users/65f6e1d18783f.jpg",
+            "info": "Çənə Podcast",
+            "supporter": "20 Dəstəkçi"
+        },
+        {
+            "id": "6",
+            "name": "Məhəmməd Mehdiyev",
+            "image": "https://kofe.al/storage/images/users/660a6b15dc3a0.jpg",
+            "info": "Editor",
+            "supporter": "1 Dəstəkçi"
+        },
+        {
+            "id": "7",
+            "name": "Kamran Aliyev",
+            "image": "https://kofe.al/storage/images/users/6612f871ee8b9.jpg",
+            "info": "Yayıncı",
+            "supporter": "2 Dəstəkçi"
+        },
+        {
+            "id": "8",
+            "name": "REZITONE",
+            "image": "https://kofe.al/storage/images/users/6622789a28d18.jpg",
+            "info": "Entertainment / Music",
+            "supporter": "2 Dəstəkçi"
+        },
+        {
+            "id": "9",
+            "name": "Couple traveller influencer",
+            "image": "https://kofe.al/storage/images/users/D5EiUEWH68Cts3WCCe5VhzuJYqU09LpfKvAuiBAA.jpg",
+            "info": "Evsiz Səyyahlar",
+            "supporter": "54 Dəstəkçi"
+        },
+        {
+            "id": "10",
+            "name": "Türkan İsmayıllı",
+            "image": "https://kofe.al/storage/images/users/64cd3091e8246.png",
+            "info": "Autizm sindromlu uşaqlar üçün Animasiya kanalı",
+            "supporter": "22 Dəstəkçi"
+        },
+        {
+            "id": "11",
+            "name": "Ahu Kamranlı",
+            "image": "https://kofe.al/storage/images/users/65d9b8b8e91d0.jpeg",
+            "info": "Gəzən, araşdıran, paylaşan",
+            "supporter": "57 Dəstəkçi"
+        },
+        {
+            "id": "12",
+            "name": "Andrew Tate",
+            "image": "https://w0.peakpx.com/wallpaper/994/443/HD-wallpaper-andrew-tate-thumbnail.jpg",
+            "info": "Multimilyoner",
+            "supporter": "1.6 milyon Dəstəkçi"
+        }
+    ]
+}

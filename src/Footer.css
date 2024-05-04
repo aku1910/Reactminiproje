@@ -1,0 +1,22 @@
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+}
+.icons{
+    display: flex;
+    gap: 5px;
+}
+.footer1 h1{
+    font-size: 25px;
+    font-weight: 600;
+}
+.footer1 p{
+    color: gray;
+}
+.footerword{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

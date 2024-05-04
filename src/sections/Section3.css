@@ -1,0 +1,92 @@
+.users {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    padding: 70px;
+}
+
+.section3head{
+ margin-top: 96px;
+ background-color: rgb(249,249,255);
+ flex-wrap: wrap;
+}
+
+.inputcolor{
+    width: max-content;
+}
+.inputcolor::placeholder{
+    text-align: center;
+}
+
+.creators{
+     background-color: rgb(223,228,253);
+     width: 120px;
+     height: 30px;
+     border-radius: 30px;
+      color: rgb(47,87,239);
+    }
+
+.userinfo {
+    border: 1px solid black;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    justify-content: space-between;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px; 
+    border: 5px solid rgb(230,227,241);
+}
+
+.info {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 15px;
+    background: linear-gradient(135deg, rgb(57,88,238), rgb(179,101,231));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.supporter {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #777777;
+}
+
+.supporter svg {
+    margin-right: 5px; 
+}
+
+.sectionhead {
+    text-align: center;
+    margin-bottom: 50px; 
+    padding-top: 90px;
+}
+.sectionhead h1{
+font-size: 50px;
+font-weight: 700;
+color: rgb(25,35,53);
+}
+.sectionhead p{
+ color: rgb(107,115,133);
+ font-size: 22px;
+    }

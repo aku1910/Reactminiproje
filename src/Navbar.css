@@ -1,0 +1,90 @@
+.header {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 10;
+}
+
+.logo {
+    width: 140px;
+}
+
+.language-select {
+    color: gray;
+}
+
+.language {
+    display: flex;
+    gap: 10px;
+}
+
+.header-container {
+    width: 87%;
+    background-color: white;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+    font-weight: 600;
+}
+
+.signin-btn {
+    border: 1px solid rgb(230, 227, 241);
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.signin-btn:hover{
+    transition: 0.3s;
+    background: linear-gradient(135deg, rgb(57,88,238), rgb(179,101,231));
+    color: white;
+}
+
+.signup-btn {
+    border: 1px solid rgb(230, 227, 241);
+    background: linear-gradient(135deg, rgb(57,88,238), rgb(179,101,231));
+    width: 130px;
+    height: 42px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+}
+ 
+.menusidebar{
+    width: 400px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: -400px;
+    z-index: 10;
+   background-color: white;
+}
+.menusidebar.open{
+    left: 0;
+    display: block;
+}
+
+@media screen and (min-width:1200px) {
+    .hamburger p{
+        display: none;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .nav-links{
+        display: none;
+    }
+    .language{
+        display: none;
+    }
+}

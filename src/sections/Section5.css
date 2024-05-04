@@ -1,0 +1,11 @@
+.section5head{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(249,249,255);
+    padding-top: 96px;
+    padding-bottom: 96px;
+    flex-wrap: wrap;
+}
+.section5head img{
+    width: 650px ;
+}

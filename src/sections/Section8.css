@@ -1,0 +1,20 @@
+.images{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 60px;
+    flex-wrap: wrap;
+}
+.images img{
+    width: 110px;
+    height: 40px;
+}
+.section8head h1{
+font-size: 20px;
+color: gray;
+display: flex;
+justify-content: center;
+margin-top: 20px;
+margin-bottom: 50px;
+font-weight: 500;
+}

@@ -1,0 +1,39 @@
+.section4head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 96px;
+    margin-bottom: 96px;
+}
+
+.section4head img {
+    width: 650px;
+}
+
+.section4message button {
+    background-color: rgb(228, 233, 253);
+    color: rgb(47, 87, 239);
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 14px;
+}
+.section4message h1{
+ font-size: 38px;
+ font-weight: 600;
+}
+.section4message img{
+    width: 550px;
+}
+.section4message span{
+    font-size: 18px;
+    color: rgb(107,115,141);
+}
+.section4message{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
